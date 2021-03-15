@@ -32,3 +32,19 @@ This repo hosts code/notes taken from the course https://frontendmasters.com/cou
 - Anchoring things to one another to make things cohesive.
 - If you are looking to move some elements of a design to another area, designers might ask questions to preserve anchoring or find another solutions with other anchoring techniques. They still need to follow some design rules while solving problems.
 </details>
+
+<details>
+  <summary>CSS Layout</summary>
+
+- CSS Grid ressource:
+
+  1. https://gridbyexample.com/
+  2. https://labs.jensimmons.com/
+  3. http://cssgridgarden.com/
+  4. https://cssgrid-generator.netlify.app/
+
+- CSS Clip path tool: https://bennettfeely.com/clippy/
+- CSS and SVG masks examples: https://codepen.io/yoksel/pen/fsdbu
+- CSS writing mode article: https://24ways.org/2016/css-writing-modes/
+
+</details>

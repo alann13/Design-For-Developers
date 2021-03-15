@@ -1,0 +1,30 @@
+.item-a {
+  /* You can name your grid areas. */
+  grid-area: header;
+}
+.item-b {
+  grid-area: main;
+}
+.item-c {
+  grid-area: sidebar;
+}
+.item-d {
+  grid-area: footer;
+}
+
+section {
+  display: grid;
+  width: 100vw;
+  height: 100vh;
+  grid-column-gap: 10px;
+  grid-row-gap: 15px;
+  grid-template-areas:
+    'header header header header header' /* Instead of naming your piece in terms of fr units, you can use the area name defined above */
+    'main   main   main   .      sidebar'
+    'footer footer footer footer footer';
+  grid-template-rows: 80px auto 80px;
+}
+
+div {
+  background: grey;
+}
