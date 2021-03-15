@@ -48,3 +48,44 @@ This repo hosts code/notes taken from the course https://frontendmasters.com/cou
 - CSS writing mode article: https://24ways.org/2016/css-writing-modes/
 
 </details>
+
+<details>
+  <summary>Color Modes</summary>
+
+- Subtractive color mixing: Cyan, Magenta, Yellow and Black.
+- Additive color mixing: Red, Green, Blue.
+- All colors blended together lead to white.
+- Color constrast tool to test a11y: https://colorable.jxnblk.com/
+- Types of color combinations:
+
+  1. MonoChromatic (1 color): 1 family of same color.
+  2. Analogous: 1 color and it's neighbors colors.
+  3. and many more.. https://learn.g2.com/color-schemes
+  4. color wheel: https://color.adobe.com/create/color-wheel
+
+- Color Theory reading: https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/
+- Color in code
+
+  1. x is a num from 0-255
+  2. y is a num from 0.0 to 1.0
+  3. `rgb(x, x, x);` or `rgba(x, x, x, y);` a as in alpha or opacity.
+
+  ***
+
+  4. Hex: values use ranges from 0-9 and A-F.
+  5. 0 being lowest. F being highest. `#00000` being black and `#FFFFFF` being white.
+  6. ## #[red][green][blue] each bracket has 2 digits.
+  7. HSL(A)
+  8. x is a num from 0-360
+  9. y is a percentage from 0% to 100%
+  10. z is a number from 0.0 to 1.0
+  11. `hsl(x, y, y);` or `hsla(x, y, y, z);`
+
+- Color name game: http://codepo8.github.io/css-colour-names/
+- Native css variable vs scss variables: js can read native css variable.
+- You can steal color palettes on dribbble.
+- Color tool: https://coolors.co/, https://paletton.com, https://palettab.com/, https://www.adobe.com/products/capture.html
+- Gradient generator: https://www.colorzilla.com/gradient-editor/, https://uigradients.com
+- Animating gradient is an expensive operation.
+- Data viz with HSL colors: https://ich.unesco.org/dive/biome/?language=en
+  </details>
