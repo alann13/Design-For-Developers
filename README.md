@@ -89,3 +89,56 @@ This repo hosts code/notes taken from the course https://frontendmasters.com/cou
 - Animating gradient is an expensive operation.
 - Data viz with HSL colors: https://ich.unesco.org/dive/biome/?language=en
   </details>
+
+<details>
+  <summary>Typography</summary>
+
+- Where to get fonts: google font, font squirrel, fonts.com, https://www.typography.com/
+- Tool to identify font: https://www.myfonts.com/WhatTheFont/
+- Protip: not more than 3 fonts per site. (it can be very expensive)
+- Protip: Don't pair with similar fonts
+- Font pairing tool: https://fontjoy.com/
+- Responsive typography examples: https://codepen.io/MadeByMike/
+- Term: Monospaced means every single characters takes same amount of space.
+- Term: No Kerning means space between letters.
+- Term: Leading means space between baselines.
+- Term: Widows and orphans means one - two words at end or begin of paragraph.
+- Tech blog: https://www.zachleat.com/web/
+- Tool to analyse your page for fonts: https://github.com/Munter/subfont
+- BLog: https://www.robinrendle.com/
+</details>
+
+<details>
+  <summary>Inspiration</summary>
+
+- https://danmall.me/
+- https://give-n-go.co/
+- https://codepen.io/topics/ui-pattern
+- https://thenounproject.com/
+</details>
+
+<details>
+  <summary>Images and Performance</summary>
+
+- Free images: unplash, google image search license, freepik, pexels
+- Paid images: shutterstock, iStockPhoto, Creative Market, Adobe Stock
+- Image types article: https://99designs.ca/blog/tips/image-file-types/
+- You need to be an image expert before claiming to be a web performance expert.
+- PNG has ability for transparency.
+- image compression tool: https://tinyjpg.com/
+- SVG has a navigable DOM.
+- SVG performance article: https://css-tricks.com/high-performance-svgs/
+</details>
+
+<details>
+  <summary>Prototyping</summary>
+
+- Why you need motion: Humans over-estimate passive waits by 36% - Eli Fitch and Richard Larson, MIT
+- People are willing to wait twice as long for a custom experience (example: loaders.) - Viget
+- https://css-tricks.com/writing-feature-requirements/
+- https://medium.com/design-story/story-map-3cc64033128e
+- Motion design language example: https://codepen.io/sdras/pen/JbaGwg
+- Low-fi prototype example: https://codepen.io/yusufbkr/pen/ORBArk
+- Flipping techniques: https://github.com/davidkpiano/
+- https://tympanus.net/Development/PageFlipLayout/
+</details>
